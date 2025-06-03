@@ -22,7 +22,7 @@ Find the complete project description, schematics, code, and technical details i
 
 ## Demonstration Video 🎥
 
-See the metal detector in action: [🎥 Watch the video on YouTube](https://youtu.be/7b1KZdM2IWs).
+See the metal detector in action: [Watch the video on YouTube](https://youtu.be/7b1KZdM2IWs).
 
 ---
 
