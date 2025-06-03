@@ -38,7 +38,7 @@ This project is a simple metal detector based on the HMC5883L magnetic field sen
 
 ## Demo
 
-- [Demo Video](link-to-your-video)
+- [Demo Video]((https://youtu.be/aGgYZl3RPeY))
 
 ## Components
 
