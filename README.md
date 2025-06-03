@@ -16,7 +16,7 @@ A metal detector project based on microcontroller technology, designed for detec
 
 ## Documentation 📖
 
-Find the complete project description, schematics, code, and technical details in the [PDF Documentation](DESIGN_LAB_REPORT.pdf).
+Find the complete project description, schematics, code, and technical details in the [PDF Documentation](TechnicalDocumentation.pdf).
 
 ---
 
